@@ -8,7 +8,7 @@ Belajar Github &amp; Markdown
 2. Setting Two Autentication
 3. Buat Repositori
 
-[git](https://www.markdownguide.org/cheat-sheet/)
+[Lihat Di sini](https://www.markdownguide.org/cheat-sheet/)
 
 
 ![alt text](https://public-files.gumroad.com/0kwcjg93sa73h0ee5p0zdhhhlhy7)
