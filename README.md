@@ -14,3 +14,4 @@ Belajar Github &amp; Markdown
 ![alt text](https://public-files.gumroad.com/0kwcjg93sa73h0ee5p0zdhhhlhy7)
 
 `sudo su`
+`code`
