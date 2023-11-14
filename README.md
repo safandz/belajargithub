@@ -7,3 +7,5 @@ Belajar Github &amp; Markdown
 1. Buat akun  Github
 2. Setting Two Autentication
 3. Buat Repositori
+
+[git](https://www.markdownguide.org/cheat-sheet/)
